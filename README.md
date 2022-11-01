@@ -1,8 +1,15 @@
-# Form
-Пример кода форм обратной связи
+# Пример кода форм обратной связи
 
 
-Использованы vue.js&nbsp;&nbsp;  nuxt.js&nbsp;&nbsp;  препроцессор scss и шаблонизатор pug
+Использованы:
 
 
-[`Почтовая программа `](https://www.emailjs.com/)
+Vue.js
+
+Nuxt.js
+
+Sass/SCSS
+
+Pug 
+
+Почтовая программа  [`emailjs `](https://www.emailjs.com/)
